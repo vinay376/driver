@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730214006741",
+    "firebase_url": "https://driverapplication-246407.firebaseio.com",
+    "project_id": "driverapplication-246407",
+    "storage_bucket": "driverapplication-246407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730214006741:android:4447d619fd4407f4",
+        "android_client_info": {
+          "package_name": "com.innovative.driverapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730214006741-u0if4e6s6rmdmubbqhvcf24uda8be2nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8F7ZLccQoB1PVvfi17oOxZdLx6NqraJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730214006741-u0if4e6s6rmdmubbqhvcf24uda8be2nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
